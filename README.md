@@ -1,5 +1,5 @@
 # Movies-Data
-Data Analysis and Visualization Using R.You are a data analyst at a company that Produces movies. Your manager want to know what lead to successful films. You will analyze the dataset from the Movie Industry to see what correlation will lead to the success of movies. 
+You are a data analyst at a company that Produces movies. Your manager want to know what lead to successful films. You will analyze the dataset from the Movie Industry to see what correlation will lead to the success of movies. 
 
 Executive Summary:
 -That if you have a higher budget on your revenue you will be able to collect more revenue which will lead to success of your movie
